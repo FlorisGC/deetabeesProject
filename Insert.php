@@ -12,7 +12,7 @@
     ini_set('display_errors', 'On');
     error_reporting(E_ALL);
 
-    $host = 'https://gc-webhosting.nl';
+    $host = 'localhost';
     $db = 'net24fhalleriet_deetabees';
     $user = 'net24fhalleriet_gebruiker51';
     $password = 'XD7YFXxesJ+y';
